@@ -1,5 +1,5 @@
 
-#Perform regression analysis on the subset of KC Housing Data in order to find a positive linear relationship between house price and feature values
+# Perform regression analysis on the subset of KC Housing Data in order to find a positive linear relationship between house price and feature values
 
 ## Project Files
 Main Module: student.ipynb
