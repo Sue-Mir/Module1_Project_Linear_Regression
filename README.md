@@ -1,8 +1,11 @@
-Cohort: Data Science / Part Time October/19 Created by: Sue Mir Date: 17/October/19
 
-Project Description: Module 1 / Project on KC House Data Jupyter notebook file: student.pynb
+#Perform regression analysis on the subset of KC Housing Data in order to find a positive linear relationship between house price and feature values
 
-Import the KC House Data file and perform regression test and analysis.
-Scrub, Explore, Model, Train Test and Interpret the results based on studies and course material in module 1.
+## Project Files
+Main Module: student.ipynb
+Data: kc_house_data.csv
 
-Perform regression analysis on the subset of KC Housing Data in order to find a positive linear relationship between house price and feature values.
+## Linear Regression Model Process Overview
+![header](Process_Diagram2.png)
+
+Cohort: Data Science Created by: Sue Mir Date: 17/October/2019
