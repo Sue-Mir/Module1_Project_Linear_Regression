@@ -1,6 +1,6 @@
 
 Cohort: Data Science / Part Time October/19
-Created by: Sue Mir
+Created by: 
 Date: 17/October/19
 
 Project Description: Module 1 / Project on KC House Data
